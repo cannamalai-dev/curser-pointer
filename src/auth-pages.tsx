@@ -398,7 +398,7 @@ export function DashboardPage() {
                 Signed in as{' '}
                 <span className="font-semibold">{user?.email}</span>. Your
                 session keeps this AI dashboard available only after
-                authentication.
+                authentication.delivered the ai feature soon
               </div>
             </div>
             <div className="rounded-lg border border-zinc-200 bg-zinc-50 p-5">
