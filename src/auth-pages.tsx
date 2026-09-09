@@ -458,7 +458,7 @@ function AuthLayout({
               Secure access
             </p>
             <h1 className="text-4xl font-semibold leading-tight text-zinc-950">
-              Manage every workspace session with confidence.
+              Manage every workspace session with confidence & Enterprize applications .
             </h1>
             <p className="mt-5 max-w-sm text-base leading-7 text-zinc-600">
               A focused authentication flow with guarded navigation, persistent
