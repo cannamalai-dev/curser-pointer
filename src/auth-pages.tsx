@@ -445,7 +445,7 @@ function AuthLayout({
             <span className="grid h-9 w-9 place-items-center rounded-lg bg-zinc-950 text-sm font-bold text-white">
               CP
             </span>
-            Cursor Portal
+            Cursors Portals
           </Link>
 
           <div className="max-w-md">
