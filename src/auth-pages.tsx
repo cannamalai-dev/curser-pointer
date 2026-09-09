@@ -462,7 +462,7 @@ function AuthLayout({
             </h1>
             <p className="mt-5 max-w-sm text-base leading-7 text-zinc-600">
               A focused authentication flow with guarded navigation, persistent
-              sessions, and clear feedback for every account action.
+              sessions, and clear feedback for every account action and items.
             </p>
           </div>
 
