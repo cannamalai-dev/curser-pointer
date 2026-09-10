@@ -461,8 +461,8 @@ function AuthLayout({
               Manage every workspace session with confidence & Enterprize applications .
             </h1>
             <p className="mt-5 max-w-sm text-base leading-7 text-zinc-600">
-              A focused authentication flow with guarded navigation, persistent
-              sessions, and clear feedback for every account action and items.
+              A focused authentication flow with guarded navigations, persistent
+              sessions, and clear feedback for every account actions and items.
             </p>
           </div>
 
