@@ -210,7 +210,7 @@ export function SignUpPage() {
             className="mt-1 h-4 w-4 rounded border-zinc-300 text-emerald-700 focus:ring-emerald-700"
           />
           <span>
-            I agree to the account terms and security policy.kubernets loacl auth issue
+            I agree to the account terms and security policy.kubernets loacl auth issue.login admin check 
             {errors.acceptTerms ? (
               <span className="mt-1 block text-sm font-medium text-red-600">
                 {errors.acceptTerms}
