@@ -404,6 +404,7 @@ export function DashboardPage() {
             <div className="rounded-lg border border-zinc-200 bg-zinc-50 p-5">
               <p className="text-sm font-semibold uppercase text-zinc-500">
                 Recent AI activity Usages & Features resposibiltes  customer supportes,admin changes 
+                admin change for reviwss
               </p>
               <div className="mt-4 space-y-4">
                 {aiActivity.map((activity) => (
