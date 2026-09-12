@@ -263,7 +263,7 @@ export function DashboardPage() {
     },
   ]
   const aiWorkflows = [
-    'Summarize customer conversations into action items',
+    'Summarize customer conversations into action itemsand workflows',
     'Draft reports from uploaded knowledge sources',
     'Classify requests and route them to the right team',
   ]
