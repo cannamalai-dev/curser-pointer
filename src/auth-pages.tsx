@@ -211,7 +211,7 @@ export function SignUpPage() {
           />
           <span>
             I agree to the account terms and security policy.kubernets loacl auth issue.login admin check ,request chanegs updated
-            changes pr declined  
+            changes pr declined chanegs   
             {errors.acceptTerms ? (
               <span className="mt-1 block text-sm font-medium text-red-600">
                 {errors.acceptTerms}
