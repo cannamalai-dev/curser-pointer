@@ -273,13 +273,13 @@ export function DashboardPage() {
       title: 'Sales assistant',
       status: 'Live',
       description:
-        'Qualifies inbound leads, drafts follow-up emails, and flags high-intent accounts for review.',
+        'Qualifies inbound leads collutions problems  , drafts follow-up emails, and flags high-intent accounts for review.',
     },
     {
       title: 'Knowledge analyst',
       status: 'Training',
       description:
-        'Indexes product notes and support docs to answer internal questions with linked sources.',
+        'Indexes product notes and support documents to prove to answer internal questions with linked sources.',
     },
     {
       title: 'Risk monitor',
